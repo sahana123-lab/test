@@ -1,10 +1,14 @@
 package myfirst;
 
 public class demo {
-
+	int a,b;
 	public void main() {
-		int a,b;
-		add();
+		
+		 add();
 		//demo
+	}
+	public void add()
+	{
+		
 	}
 }
